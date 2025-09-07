@@ -1,0 +1,1 @@
+This folder contains the code which was executed in jupiter notebook and it contains detailed explanation . 
