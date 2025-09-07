@@ -285,6 +285,4 @@ Citation:
 Soundankar, A. (2022). Road Accidents Dataset. Kaggle. https://www.kaggle.com/datasets/atharvasoundankar/road-accidents-dataset
 
 
-The Colab notebook contains inline comments and explanations for each step; consult the notebook for implementation-level details.
 
-If you need the README adapted into markdown or want example command lines converted into a runnable script, request that and provide your preferred environment (Colab or local).
